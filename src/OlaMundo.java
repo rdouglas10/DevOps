@@ -6,5 +6,10 @@ public class OlaMundo {
 		System.out.println("Disciplina de DevOps!");
 
 	}
+	
+	
+	public static String getText() {
+		return "Olah mundo!";
+	}
 
 }
